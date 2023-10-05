@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a placeholder; in the meantime, visit ashleypagnotta.com.
+
 <!--
 **ashpags/ashpags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
